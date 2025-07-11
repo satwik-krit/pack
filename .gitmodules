@@ -1,0 +1,6 @@
+[submodule "git-tools/opt/gitsigns"]
+	path = git-tools/opt/gitsigns
+	url = https://github.com/lewis6991/gitsigns.nvim
+[submodule "git-tools/opt/diffview"]
+	path = git-tools/opt/diffview
+	url = https://github.com/sindrets/diffview.nvim

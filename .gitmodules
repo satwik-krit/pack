@@ -4,3 +4,6 @@
 [submodule "git-tools/opt/diffview"]
 	path = git-tools/opt/diffview
 	url = https://github.com/sindrets/diffview.nvim
+[submodule "plugins/vim-dispatch"]
+	path = plugins/vim-dispatch
+	url = https://github.com/tpope/vim-dispatch.git

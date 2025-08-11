@@ -7,3 +7,6 @@
 [submodule "plugins/vim-dispatch"]
 	path = plugins/vim-dispatch
 	url = https://github.com/tpope/vim-dispatch.git
+[submodule "plugins/opt/vim-dispatch"]
+	path = plugins/opt/vim-dispatch
+	url = https://github.com/tpope/vim-dispatch.git

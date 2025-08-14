@@ -13,3 +13,6 @@
 [submodule "plugins/opt/vinegar.vim"]
 	path = plugins/opt/vinegar.vim
 	url = https://github.com/tpope/vim-vinegar.git
+[submodule "plugins/opt/vim-vinegar"]
+	path = plugins/opt/vim-vinegar
+	url = https://github.com/tpope/vim-vinegar.git

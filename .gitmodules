@@ -16,3 +16,6 @@
 [submodule "plugins/opt/vim-vinegar"]
 	path = plugins/opt/vim-vinegar
 	url = https://github.com/tpope/vim-vinegar.git
+[submodule "colorschemes/start/vividchalk"]
+	path = colorschemes/start/vividchalk
+	url = https://github.com/tpope/vim-vividchalk.git

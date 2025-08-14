@@ -10,3 +10,6 @@
 [submodule "plugins/opt/vim-dispatch"]
 	path = plugins/opt/vim-dispatch
 	url = https://github.com/tpope/vim-dispatch.git
+[submodule "plugins/opt/vinegar.vim"]
+	path = plugins/opt/vinegar.vim
+	url = https://github.com/tpope/vim-vinegar.git

@@ -19,3 +19,33 @@
 [submodule "colorschemes/start/vividchalk"]
 	path = colorschemes/start/vividchalk
 	url = https://github.com/tpope/vim-vividchalk.git
+[submodule "plugins/opt/nvim-treesitter"]
+	path = plugins/opt/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule "colorschemes/start/alabaster"]
+	path = colorschemes/start/alabaster
+	url = https://github.com/p00f/alabaster.nvim.git
+[submodule "colorschemes/start/onedark"]
+	path = colorschemes/start/onedark
+	url = https://github.com/navarasu/onedark.nvim.git
+[submodule "colorschemes/start/elrond"]
+	path = colorschemes/start/elrond
+	url = https://github.com/aperezdc/vim-elrond.git
+[submodule "colorschemes/start/hemisu"]
+	path = colorschemes/start/hemisu
+	url = https://github.com/noahfrederick/vim-hemisu
+[submodule "colorschemes/zenburn"]
+	path = colorschemes/zenburn
+	url = https://github.com/jnurmine/Zenburn.git
+[submodule "colorschemes/start/bamboo"]
+	path = colorschemes/start/bamboo
+	url = https://github.com/ribru17/bamboo.nvim.git
+[submodule "colorschemes/start/catppuccin"]
+	path = colorschemes/start/catppuccin
+	url = https://github.com/catppuccin/nvim
+[submodule "colorschemes/start/jellybeans"]
+	path = colorschemes/start/jellybeans
+	url = https://github.com/nanotech/jellybeans.vim
+[submodule "plugins/opt/pear-tree"]
+	path = plugins/opt/pear-tree
+	url = https://github.com/tmsvg/pear-tree
